@@ -3,8 +3,7 @@
 Portfolio website showcasing engineering projects, UAV systems, structural simulations, robotics design, and additive manufacturing work.
 
 **Live Portfolio**  
-https://harshvardhanpatil.github.io
-
+https://harshvardhan2024.github.io/Harshvardhan-Portfolio.io/
 ---
 
 ## About Me
